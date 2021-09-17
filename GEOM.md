@@ -1,4 +1,4 @@
-#GEOM - Formas geométricas
+# GEOM - Formas geométricas
 
 ```javascript
 class GEOMAngles {
